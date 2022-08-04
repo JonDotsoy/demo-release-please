@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/JonDotsoy/demo-release-please/compare/v1.1.4...v2.0.0) (2022-08-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* upgrade README
+
+### Features
+
+* upgrade README ([d781274](https://github.com/JonDotsoy/demo-release-please/commit/d7812749e57ac7a13005b259c0ed9ea79e4818ed))
+
 ## [1.1.4](https://github.com/JonDotsoy/demo-release-please/compare/v1.0.1...v1.1.4) (2022-08-04)
 
 
