@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/JonDotsoy/demo-release-please/compare/v2.1.0...v2.2.0) (2022-08-04)
+
+
+### Features
+
+* add sub proyect ([cd910b9](https://github.com/JonDotsoy/demo-release-please/commit/cd910b9081101fb54eab445d5f92f58bb6f9295b))
+
 ## [2.1.0](https://github.com/JonDotsoy/demo-release-please/compare/v2.0.1...v2.1.0) (2022-08-04)
 
 
