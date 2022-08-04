@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/JonDotsoy/demo-release-please/compare/v2.0.0...v2.0.1) (2022-08-04)
+
+
+### Bug Fixes
+
+* order README file ([dc9159e](https://github.com/JonDotsoy/demo-release-please/commit/dc9159e12d8954a4cc4c95f5e62104a2a8629166))
+
 ## [2.0.0](https://github.com/JonDotsoy/demo-release-please/compare/v1.1.4...v2.0.0) (2022-08-04)
 
 
