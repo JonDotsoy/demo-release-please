@@ -10,7 +10,7 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         id: release
         with:
-          command: github-release
+          command: release-pr
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
           repo-url: ${{ env.GITHUB_REPOSITORY }}
