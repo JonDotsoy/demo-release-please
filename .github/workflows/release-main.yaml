@@ -11,6 +11,6 @@ jobs:
         id: release
         with:
           command: github-release
-          token: ${{secrets.GITHUB_TOKEN}}
+          token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
           repo-url: ${{ env.GITHUB_REPOSITORY }}
