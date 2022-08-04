@@ -13,4 +13,5 @@ jobs:
           command: release-pr
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: node
+          package-name: release-please-action
           repo-url: ${{ env.GITHUB_REPOSITORY }}
