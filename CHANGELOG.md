@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/JonDotsoy/demo-release-please/compare/v2.0.1...v2.1.0) (2022-08-04)
+
+
+### Features
+
+* upgrade READEM ([9be6c90](https://github.com/JonDotsoy/demo-release-please/commit/9be6c90e1bf4892f949ad33b64108d9b8072ac6c))
+
 ## [2.0.1](https://github.com/JonDotsoy/demo-release-please/compare/v2.0.0...v2.0.1) (2022-08-04)
 
 
