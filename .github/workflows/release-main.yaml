@@ -13,6 +13,4 @@ jobs:
           command: release-pr
           token: ${{secrets.GITHUB_TOKEN}}
           release-type: node
-          package-name: release-please-action
-          default-branch: 1.x
           repo-url: ${{ env.GITHUB_REPOSITORY }}
